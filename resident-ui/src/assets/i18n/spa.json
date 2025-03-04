@@ -435,7 +435,8 @@
         "pendingDrafts":{
             "heading": "Se encontró una solicitud existente; se requiere acción.",
             "descriptionText": "Descripción: ",
-            "descriptionDetails": "Hemos encontrado una solicitud de actualización de datos existente que aún está en curso. Para generar una nueva solicitud, deberá eliminar la solicitud existente.",
+            "descriptionDetails": "Hemos encontrado una solicitud de actualización de datos existente que aún está en progreso. Para generar una nueva solicitud, deberá eliminar la solicitud existente.",
+            "descriptionDetailsTwo": "Hemos encontrado una solicitud de actualización de datos existente que aún está en progreso. Para generar una nueva solicitud, puede cancelar la solicitud existente después de un tiempo.",
             "viewMore":"Ver más",
             "viewLess":"Ver menos",
             "warnMsg":"¿Está seguro de que desea cancelar la solicitud existente para actualizar los datos elegidos?",
