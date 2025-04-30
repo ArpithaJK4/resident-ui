@@ -718,6 +718,7 @@
         "RES-SER-401": "Exception de base",
         "RES-SER-474": "Exception d'identification individuelle introuvable",
         "RES-SER-527": "L'entrée que vous avez saisie existe déjà. Veuillez saisir une nouvelle valeur pour continuer.",
-        "RES-SER-479": "Erreur lors du téléchargement de la carte personnalisée."
+        "RES-SER-479": "Erreur lors du téléchargement de la carte personnalisée.",
+        "RES-SER-528": "aucune exception d'algorithme de ce type"
     }
 }
