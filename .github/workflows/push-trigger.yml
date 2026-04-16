@@ -19,7 +19,6 @@ on:
       - master
       - develop
       - develop-*
-      - 1*
       - zambia
 
 jobs:
