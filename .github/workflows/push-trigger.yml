@@ -20,6 +20,7 @@ on:
       - develop*
       - 1*
       - MOSIP*
+      - zambia
 
 jobs:
   build-resident-ui:
