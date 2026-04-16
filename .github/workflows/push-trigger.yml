@@ -20,7 +20,6 @@ on:
       - develop
       - develop-*
       - 1*
-      - MOSIP*
       - zambia
 
 jobs:
